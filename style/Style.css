@@ -1,0 +1,358 @@
+.container {
+  max-width: 1200px;
+  padding: 0; }
+
+.container1 {
+  width: 100%; }
+
+.btn-warning:hover {
+  color: #000;
+  background-color: #f46a35;
+  border-color: #f46a35; }
+
+header .navbar {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem; }
+  header .navbar a {
+    color: #212121; }
+    header .navbar a:hover {
+      color: #000; }
+  header .navbar .nav-item {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 143%;
+    letter-spacing: 0.01em;
+    color: #212121;
+    font-family: Roboto; }
+  header .navbar .dropdown {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 143%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #212121;
+    font-family: Roboto; }
+  header .navbar .container {
+    padding-left: 24px;
+    padding-right: 24px; }
+    header .navbar .container .navbar-brand {
+      margin-right: 29px; }
+    header .navbar .container .header-ul-right {
+      box-sizing: border-box; }
+      header .navbar .container .header-ul-right .jjj {
+        gap: 38px; }
+    header .navbar .container .header-ul-left ul {
+      gap: 31px; }
+      header .navbar .container .header-ul-left ul .button-orange {
+        padding: 7px 26px 7px 26px;
+        border: 1px solid #f46a35;
+        border-radius: 10px;
+        background-color: #f46a35;
+        color: #fff; }
+        header .navbar .container .header-ul-left ul .button-orange:hover {
+          color: #000; }
+
+.section_1 {
+  padding-left: 48px; }
+  .section_1 .section1-left-side .section1-article1 {
+    margin-bottom: 63px;
+    padding-top: 76px; }
+    .section_1 .section1-left-side .section1-article1 h1 {
+      font-weight: 400;
+      font-size: 40px;
+      line-height: 130%;
+      letter-spacing: 0.04em;
+      color: #212121;
+      font-family: Roboto; }
+    .section_1 .section1-left-side .section1-article1 .btn-warning {
+      border: 1px solid #f46a35;
+      border-radius: 10px;
+      background: #f46a35;
+      color: #fff;
+      padding: 13px 32px; }
+      .section_1 .section1-left-side .section1-article1 .btn-warning:hover {
+        color: #000; }
+    .section_1 .section1-left-side .section1-article1 .btn-light {
+      padding: 13px 21px;
+      border: 1px solid rgba(0, 0, 0, 0.1);
+      border-radius: 10px;
+      background-color: #fff; }
+  .section_1 .section1-left-side .section1-article2, .section_1 .section1-left-side .section1-article3 {
+    padding-top: 33px;
+    margin-right: 104px;
+    border-top: solid 1px rgba(0, 0, 0, 0.1); }
+    .section_1 .section1-left-side .section1-article2 h5, .section_1 .section1-left-side .section1-article3 h5 {
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 125%;
+      letter-spacing: 0.02em;
+      color: #212121;
+      font-family: Roboto; }
+    .section_1 .section1-left-side .section1-article2 p, .section_1 .section1-left-side .section1-article3 p {
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 143%;
+      letter-spacing: 0.02em;
+      color: #212121;
+      font-family: Roboto; }
+    .section_1 .section1-left-side .section1-article2 a, .section_1 .section1-left-side .section1-article3 a {
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 150%;
+      color: #f46a35;
+      font-family: Roboto; }
+  .section_1 .section1-left-side .section1-article2 {
+    margin-bottom: 31px; }
+  .section_1 .section1-left-side .section1-article3 {
+    margin-bottom: 75px; }
+
+.section_carusel {
+  margin-bottom: 160px;
+  align-items: center; }
+  .section_carusel img {
+    padding: 15px 15px; }
+
+.section_2 .row .section2-title {
+  margin-bottom: 64px; }
+  .section_2 .row .section2-title h2 {
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 144%;
+    letter-spacing: 0.04em;
+    text-align: center;
+    color: #212121;
+    font-family: Roboto; }
+  .section_2 .row .section2-title p {
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 168%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #212121;
+    font-family: Roboto;
+    white-space: nowrap; }
+.section_2 .card-group .card {
+  border: none;
+  margin-bottom: 72px; }
+.section_2 .card-group .card-img-overlay {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-left: 68px;
+  padding-right: 68px;
+  padding-top: 48px; }
+  .section_2 .card-group .card-img-overlay h5 {
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 125%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #212121;
+    font-family: Roboto; }
+  .section_2 .card-group .card-img-overlay p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #212121;
+    font-family: Roboto;
+    text-align: center; }
+  .section_2 .card-group .card-img-overlay a {
+    padding: 13px 41px;
+    border: 1px solid #212121;
+    border-radius: 10px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 157%;
+    color: #212121;
+    font-family: Roboto; }
+.section_2 .card-group .card-img-overlay-left h5, .section_2 .card-group .card-img-overlay-left p, .section_2 .card-group .card-img-overlay-left a {
+  color: #fff; }
+.section_2 .card-group .card-img-overlay-left a {
+  border: 1px solid #fff;
+  border-radius: 10px; }
+
+.section_3 {
+  background-color: #f9f9f9;
+  padding: 95px 48px 80px 48px;
+  margin-bottom: 251px; }
+  .section_3 .section3-titel {
+    padding-right: 302px;
+    margin-bottom: 40px; }
+    .section_3 .section3-titel h5 {
+      font-weight: 400;
+      font-size: 36px;
+      line-height: 144%;
+      letter-spacing: 0.04em;
+      color: #212121;
+      font-family: Roboto; }
+    .section_3 .section3-titel p {
+      font-weight: 400;
+      font-size: 20px;
+      line-height: 160%;
+      letter-spacing: 0.02em;
+      color: #212121;
+      font-family: Roboto; }
+    .section_3 .section3-titel a {
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 157%;
+      color: #212121;
+      font-family: Roboto;
+      padding: 13px 21px;
+      border: 1px solid #212121;
+      border-radius: 10px; }
+
+.section3-main {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding-top: 60px;
+  padding-bottom: 60px; }
+  .section3-main .section3-list div {
+    gap: 5px; }
+    .section3-main .section3-list div h5 {
+      font-weight: 700;
+      font-size: 30px;
+      line-height: 144%;
+      letter-spacing: 0.04em;
+      color: #212121;
+      font-family: Roboto; }
+    .section3-main .section3-list div a {
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 150%;
+      font-family: Roboto;
+      color: #212121;
+      background-color: #fff;
+      padding: 10px 280px 10px 21px;
+      border: 1px solid rgba(0, 0, 0, 0.1);
+      border-radius: 10px; }
+      .section3-main .section3-list div a:hover {
+        border: solid black; }
+      .section3-main .section3-list div a:nth-child(3) {
+        padding-right: 324px; }
+      .section3-main .section3-list div a:nth-child(4) {
+        padding-right: 292px; }
+      .section3-main .section3-list div a:nth-child(5) {
+        padding-right: 321px; }
+
+.section_4 {
+  padding: 1px 263px 295px 264px; }
+  .section_4 img {
+    margin-bottom: 49px;
+    padding-left: 200px;
+    padding-right: 200px; }
+  .section_4 h5 {
+    margin-bottom: 48px;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 109%;
+    text-align: center;
+    color: #212121;
+    font-family: Roboto; }
+  .section_4 p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 125%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #212121;
+    font-family: Roboto; }
+
+.section_5 {
+  margin-bottom: 81px; }
+  .section_5 h2 {
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 130%;
+    letter-spacing: 0.04em;
+    text-align: center;
+    color: #212121;
+    font-family: Roboto;
+    margin-bottom: 79px; }
+  .section_5 .g-4 {
+    --bs-gutter-x: 4rem; }
+  .section_5 img {
+    margin-bottom: 26px; }
+  .section_5 p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 140%;
+    letter-spacing: 0.02em;
+    color: #212121;
+    font-family: Roboto; }
+  .section_5 a {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #f46a35;
+    text-decoration: none;
+    font-family: Roboto; }
+
+.section_7 {
+  background-color: #f9f9f9; }
+  .section_7 .section7-titel {
+    padding: 130px 101px 90px 47px; }
+    .section_7 .section7-titel h2 {
+      font-weight: 400;
+      font-size: 40px;
+      line-height: 130%;
+      letter-spacing: 0.04em;
+      color: #212121;
+      font-family: Roboto; }
+    .section_7 .section7-titel p {
+      font-weight: 400;
+      font-size: 20px;
+      line-height: 160%;
+      letter-spacing: 0.02em;
+      color: #212121;
+      font-family: Roboto; }
+    .section_7 .section7-titel .btn-warning {
+      padding: 13px 32px;
+      border: 1px solid #f46a35;
+      border-radius: 10px;
+      background-color: #f46a35;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 157%;
+      color: #fff;
+      font-family: Roboto; }
+    .section_7 .section7-titel .btn-outline-dark {
+      border: 1px solid #212121;
+      border-radius: 10px;
+      padding: 13px 21px;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 157%;
+      color: #212121;
+      font-family: Roboto; }
+
+footer {
+  background-color: #171717; }
+  footer .footer-padding {
+    padding: 120px 53px 121px 48px; }
+    footer .footer-padding .col {
+      margin-bottom: 97px; }
+      footer .footer-padding .col h5 {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #fff;
+        font-family: Roboto; }
+      footer .footer-padding .col ul a {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 157%;
+        color: #bcbdbd;
+        font-family: Roboto; }
+    footer .footer-padding .footer-logo {
+      margin-bottom: 131px; }
+    footer .footer-padding .row p {
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 133%;
+      letter-spacing: 0.02em;
+      color: #bcbdbd;
+      font-family: Roboto; }

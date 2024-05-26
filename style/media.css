@@ -1,0 +1,19 @@
+@media only screen and (max-width: 600px) {
+  .row {
+    margin-right: 0; }
+
+  .section_2 .row .section2-title p {
+    white-space: break-spaces; }
+
+  .section_5 .row .col {
+    padding: 0; }
+    .section_5 .row .col img {
+      width: 90%;
+      height: auto; }
+  .section_5 .row .card-body {
+    padding: 0; }
+  .section_5 .row p {
+    text-wrap: inherit; }
+
+  .section_4 {
+    display: none; } }
